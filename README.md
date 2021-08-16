@@ -1,6 +1,8 @@
 # travel_app
 
-A new Flutter application.
+Screenshot
+
+![Screenshot_20210816-083037](https://user-images.githubusercontent.com/57026317/129500257-7f88f8a0-646c-4efd-9cb3-fc57fae43302.png)
 
 ## Getting Started
 
